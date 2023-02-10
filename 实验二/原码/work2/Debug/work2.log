@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\ruanan\work2\源.cpp(39,9): warning C4101: “n”: 未引用的局部变量
+  LINK : 没有找到 D:\ruanan\work2\Debug\work2.exe 或上一个增量链接没有生成它；正在执行完全链接
+  work2.vcxproj -> D:\ruanan\work2\Debug\work2.exe

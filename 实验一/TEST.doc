@@ -1,0 +1,118 @@
+hello world
+A few challenges exist for comparison, which we explain here. The first is a d
+ifference in choice of convolutional feature extractor. For identical decoder archi
+tectures, us- ing more recent architectures such as GoogLeNet or Ox- ford VGG 
+Szegedy et al. (2014), Simonyan & Zisserman (2014) can give a boost in perform
+ance over using the AlexNet (Krizhevsky et al., 2012). In our evaluation, we com
+pare directly only with results which use the compa- rable GoogLeNet
+/Oxford VGG features, but for METEOR comparison we note some results that use AlexNet. The
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn
+ their parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet 
+(Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014)
+ show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features
+ performs better than simply treating the image as a whole frame. In the experiments, we show that our method
+ performs much better than Karpathy et al. (2014) when the same image features are used, and is better than
+ or comparable to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn 
+their parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet
+ (Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. 
+(2014) show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet
+ features performs better than simply treating the image as a whole frame. In the experiments, we show that 
+our method performs much better than Karpathy et al. (2014) when the same image features are used, and
+ is better than or comparable to their results even when they use more sophisticated features based on object
+ detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their
+ parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet
+ (Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. 
+(2014) show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet
+ features performs better than simply treating the image as a whole frame. In the experiments, we show that
+ our method performs much better than Karpathy et al. (2014) when the same image features are used, and
+ is better than or comparable to their results even when they use more sophisticated features based on object 
+detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their
+ parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet (Simonyan 
+& Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014) show that
+ using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features performs
+ better than simply treating the image as a whole frame. In the experiments, we show that our method performs
+ much better than Karpathy et al. (2014) when the same image features are used, and is better than or comparable
+ to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their 
+parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet (Simonya
+n & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014) show tha
+t using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features performs
+ better than simply treating the image as a whole frame. In the experiments, we show that our method performs 
+much better than Karpathy et al. (2014) when the same image features are used, and is better than or comparable 
+to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their 
+parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet (Simonyan 
+& Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014) show that using 
+the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features performs
+ better than simply treating the image as a whole frame. In the experiments, we show that our method
+ performs much better than Karpathy et al. (2014) when the same image features are used, and is better than 
+or comparable to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and 
+learn their parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the 
+VggNet (Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy 
+et al. (2014) show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet
+ features performs better than simply treating the image as a whole frame. In the experiments, we show that our 
+method performs much better than Karpathy et al. (2014) when the same image features are used, and is better than 
+or comparable to their results even when they use more sophisticated features based on object detection
+hello world
+A few challenges exist for comparison, which we explain here. The first is a d
+ifference in choice of convolutional feature extractor. For identical decoder archi
+tectures, us- ing more recent architectures such as GoogLeNet or Ox- ford VGG 
+Szegedy et al. (2014), Simonyan & Zisserman (2014) can give a boost in perform
+ance over using the AlexNet (Krizhevsky et al., 2012). In our evaluation, we com
+pare directly only with results which use the compa- rable GoogLeNet
+/Oxford VGG features, but for METEOR comparison we note some results that use AlexNet. The
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn
+ their parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet 
+(Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014)
+ show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features
+ performs better than simply treating the image as a whole frame. In the experiments, we show that our method
+ performs much better than Karpathy et al. (2014) when the same image features are used, and is better than
+ or comparable to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn 
+their parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet
+ (Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. 
+(2014) show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet
+ features performs better than simply treating the image as a whole frame. In the experiments, we show that 
+our method performs much better than Karpathy et al. (2014) when the same image features are used, and
+ is better than or comparable to their results even when they use more sophisticated features based on object
+ detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their
+ parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet
+ (Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. 
+(2014) show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet
+ features performs better than simply treating the image as a whole frame. In the experiments, we show that
+ our method performs much better than Karpathy et al. (2014) when the same image features are used, and
+ is better than or comparable to their results even when they use more sophisticated features based on object 
+detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their
+ parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet (Simonyan 
+& Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014) show that
+ using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features performs
+ better than simply treating the image as a whole frame. In the experiments, we show that our method performs
+ much better than Karpathy et al. (2014) when the same image features are used, and is better than or comparable
+ to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their 
+parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet (Simonya
+n & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014) show tha
+t using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features performs
+ better than simply treating the image as a whole frame. In the experiments, we show that our method performs 
+much better than Karpathy et al. (2014) when the same image features are used, and is better than or comparable 
+to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and learn their 
+parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the VggNet (Simonyan 
+& Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy et al. (2014) show that using 
+the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet features performs
+ better than simply treating the image as a whole frame. In the experiments, we show that our method
+ performs much better than Karpathy et al. (2014) when the same image features are used, and is better than 
+or comparable to their results even when they use more sophisticated features based on object detection
+For the language part, as mentioned above, we randomly initialize the language modeling layers and 
+learn their parameters. For the vision part, we use the pre-trained AlexNet (Krizhevsky et al. (2012)) or the 
+VggNet (Simonyan & Zisserman (2014)) on ImageNet dataset (Russakovsky et al. (2014)). Recently, Karpathy 
+et al. (2014) show that using the RCNN object detection results (Girshick et al. (2014)) combined with the AlexNet
+ features performs better than simply treating the image as a whole frame. In the experiments, we show that our 
+method performs much better than Karpathy et al. (2014) when the same image features are used, and is better than 
+or comparable to their results even when they use more sophisticated features based on object detection
